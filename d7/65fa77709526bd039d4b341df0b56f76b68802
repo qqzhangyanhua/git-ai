@@ -1,0 +1,65 @@
+src/streams/agents/grok.rs
+  s_9ab28b4019e666::t_da0086cadff674 1-336
+tests/integration/repos/test_file.rs
+  s_9ab28b4019e666::t_3b4694b64c0cce 24
+src/streams/agents/mod.rs
+  s_9ab28b4019e666::t_785408dabc9e00 11,25
+src/commands/checkpoint_agent/presets/mod.rs
+  s_9ab28b4019e666::t_408ad737a28706 15,128,141,174
+src/commands/checkpoint_agent/presets/grok.rs
+  s_9ab28b4019e666::t_d2be3dbd424ad4 56-62
+  s_9ab28b4019e666::t_eec9a3773325bb 96-100
+  s_9ab28b4019e666::t_eb549f23cb1085 1-55,63-95,101-300
+src/mdm/agents/grok.rs
+  s_9ab28b4019e666::t_e65f7c46ea3631 1-225
+tests/integration/grok.rs
+  s_9ab28b4019e666::t_e958e0441870fd 5,99-140,275-329
+  s_9ab28b4019e666::t_c6ff8d0e62aa01 190-191,240-241
+  s_9ab28b4019e666::t_87da65425d2ad2 1-4,6-98,141-189,192-237,239,242-274,330
+  s_9ab28b4019e666::t_9d6b69f801e73c 238
+src/mdm/utils.rs
+  s_9ab28b4019e666::t_8ca3a8258dd5f5 461-471,1481-1514
+  s_9ab28b4019e666::t_2092951fee27a8 1515
+src/streams/model_extraction.rs
+  s_9ab28b4019e666::t_232a00a7c4303c 40-57,1188-1202
+  s_9ab28b4019e666::t_d1844eee90d8c7 34
+  s_9ab28b4019e666::t_13297068055fa0 1203-1204
+tests/integration/main.rs
+  s_9ab28b4019e666::t_8e52a3e72d9a15 80
+src/streams/sweep.rs
+  s_9ab28b4019e666::t_faff876fe0ed66 44,63,79
+src/mdm/agents/mod.rs
+  s_9ab28b4019e666::t_41a581ece72705 10,28,54
+src/commands/checkpoint_agent/presets/parse.rs
+  s_9ab28b4019e666::t_1705ab389ce6c1 12-24
+  s_9ab28b4019e666::t_718ec3743dba4a 301-327
+src/commands/checkpoint_agent/bash_tool.rs
+  s_9ab28b4019e666::t_2d1ac74e864e3c 1609-1624
+  s_9ab28b4019e666::t_88db3f11014ebe 390-391,393-395,414
+  s_9ab28b4019e666::t_eec9a3773325bb 392
+  s_9ab28b4019e666::t_01d3c92d4bfb0b 1608
+tests/integration/agent_presets_comprehensive.rs
+  s_9ab28b4019e666::t_0ba4eb53a5f3dc 891
+tests/integration/repos/test_repo.rs
+  s_9ab28b4019e666::t_611495ec0e29fe 1028
+src/commands/git_ai_handlers.rs
+  s_9ab28b4019e666::t_2260b097e68e82 327
+src/streams/agent.rs
+  s_9ab28b4019e666::t_83c84b41d3a30c 192,214
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.6.23",
+  "base_commit_sha": "d765fa77709526bd039d4b341df0b56f76b68802",
+  "prompts": {},
+  "sessions": {
+    "s_9ab28b4019e666": {
+      "agent_id": {
+        "tool": "grok",
+        "id": "01a05d70-1230-7401-b6a7-fc93242741c0",
+        "model": "grok-4.6"
+      },
+      "human_author": "张艳华 <939593210@qq.com>"
+    }
+  }
+}
