@@ -1,0 +1,23 @@
+src/utils.rs
+  s_98c510ff5b3986::t_4230a9d7f0f301 47,49-59,61
+  s_98c510ff5b3986::t_dfc2e3c9885dc6 21-24,26-40,42-46,48,60,62-69,72-73,76-78
+  s_98c510ff5b3986::t_17392498f7c92a 632-639
+  s_98c510ff5b3986::t_5006745beda54b 622-631,640-641
+  s_98c510ff5b3986::t_a20ac59dd533f0 596-621
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.6.23",
+  "base_commit_sha": "a7d0cad0b03d60145d4f10088a2bd39879ebc240",
+  "prompts": {},
+  "sessions": {
+    "s_98c510ff5b3986": {
+      "agent_id": {
+        "tool": "grok",
+        "id": "01a05dc7-f2b2-7a33-9509-d11d96fe330d",
+        "model": "grok-4.6"
+      },
+      "human_author": "张艳华 <939593210@qq.com>"
+    }
+  }
+}
