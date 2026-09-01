@@ -1,0 +1,36 @@
+tests/integration/pending_ai_edit_suppression.rs
+  s_a17185010f3c5a::t_bfd4c00e1c9f6d 14-17
+  s_a17185010f3c5a::t_71daff7eee423e 321-366
+src/utils.rs
+  s_a17185010f3c5a::t_e3aad7c1e216c7 3,13-42
+  s_a17185010f3c5a::t_a06bb1d3a7ad74 517-559
+  s_a17185010f3c5a::t_17c46cbfd44729 43-44
+src/commands/checkpoint_agent/presets/github_copilot/ide.rs
+  s_a17185010f3c5a::t_c644da4cd8fafe 304-308
+  s_a17185010f3c5a::t_75527dc4ce97a2 295-297,318,320,323-329
+  s_a17185010f3c5a::t_b53627ed11eeb9 298-301
+  s_a17185010f3c5a::t_a0fce2d71bd158 754-785
+  s_a17185010f3c5a::t_200d91baebc55b 302-303,309-317,319,321-322
+  s_a17185010f3c5a::t_2b17da76818dda 753
+tests/integration/github_copilot_create_file.rs
+  s_a17185010f3c5a::t_54aa57d1ed733e 423-467,470-499
+  s_a17185010f3c5a::t_7ab7bfe423e9e5 468-469
+src/daemon.rs
+  s_a17185010f3c5a::t_148208916ccc84 3367
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.6.23",
+  "base_commit_sha": "747c2fbb21b36853cd5820c8af06327a99709bc6",
+  "prompts": {},
+  "sessions": {
+    "s_a17185010f3c5a": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "4202451d-1c2a-4473-8f46-037fb82f9580",
+        "model": "grok-4.5"
+      },
+      "human_author": "张艳华 <939593210@qq.com>"
+    }
+  }
+}
