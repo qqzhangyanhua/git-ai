@@ -1,0 +1,32 @@
+src/metrics/db.rs
+  s_5caaa0df8e2747::t_766441732108c8 1148-1153
+  s_5caaa0df8e2747::t_9abf8051521e82 1193,1202-1204
+  s_5caaa0df8e2747::t_957e19e290f1ec 1189
+  s_5caaa0df8e2747::t_f2095c663a657c 2419
+  s_5caaa0df8e2747::t_9603ff358fd41d 2420-2453
+  s_5caaa0df8e2747::t_cc6158654f39e5 28
+  s_5caaa0df8e2747::t_b329a49f1cdc36 27
+src/streams/agents/cursor.rs
+  s_5caaa0df8e2747::t_757db9dbbc1e2a 547
+  s_5caaa0df8e2747::t_48b3e53a4729cb 15-16
+  s_5caaa0df8e2747::t_7c24a13a7cf179 75-76,90-92
+  s_5caaa0df8e2747::t_b67bf87ebd84e9 14
+  s_5caaa0df8e2747::t_adeaec9e984dc0 77-81
+  s_5caaa0df8e2747::t_008b9e8cef11c5 546,548-583
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.6.23",
+  "base_commit_sha": "1e6a416b9fc841c0710eb9205fa25370c5e66a48",
+  "prompts": {},
+  "sessions": {
+    "s_5caaa0df8e2747": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "a2bde780-4b32-4abe-86a1-00e92f1a43b2",
+        "model": "claude-opus-5"
+      },
+      "human_author": "张艳华 <939593210@qq.com>"
+    }
+  }
+}
